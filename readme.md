@@ -16,6 +16,12 @@ La aplicación ha sido construida utilizando las siguientes tecnologías:
 - Información sobre destinos populares y detalles relacionados con viajes.
 - Responsive design que se adapta a diferentes tamaños de pantalla.
 - Posibilidad de agregar nuevas funcionalidades.
+---
+
+![Vista previa](/img/info-viajes.png)
+
+---
+
 
 ## Cómo Clonar el Repositorio
 
